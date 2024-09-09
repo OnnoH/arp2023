@@ -4,7 +4,8 @@ function Meetups() {
             <h2>Meetups</h2>
             <ul><p>The Hague</p>
                 <ul><p className="meetupYear">2024</p>
-                    <li>March 23rd or 30th</li>
+                    <li>September 9th</li>
+                    <li>March 30th</li>
                     <li>February 17th</li>
                 </ul>
                 <ul><p className="meetupYear">2023</p>
