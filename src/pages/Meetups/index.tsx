@@ -4,10 +4,14 @@ function Meetups() {
             <h2>Meetups</h2>
             <ul><p>The Hague</p>
                 <ul><p className="meetupYear">2024</p>
+                    <li>December 14th</li> 
+                    <li>November 23rd <sup>*</sup></li>
+                    <li>October 26th</li>
                     <li>September 14th</li>
                     <li>March 30th</li>
                     <li>February 17th</li>
                 </ul>
+                <p><sup>*</sup>Meetup @ <a href="https://www.bibliotheekdenhaag.nl/bibliotheken/detail.199343.html/bibliotheek-loosduinen/">Bibliotheek Loosduinen</a></p>
                 <ul><p className="meetupYear">2023</p>
                     <li>November 25th</li>
                     <li>October 28th</li>
